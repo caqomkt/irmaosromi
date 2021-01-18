@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/fbncaqo/public_html/
+    - /bin/cp -R images $DEPLOYPATH
