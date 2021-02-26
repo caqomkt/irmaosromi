@@ -150,10 +150,10 @@ ul.footer_links li {
 /********************** Backgrounds **********************/
 
 #Header_wrapper {
-	background-color: #172740;
+	background-color: #032D6B;
 }
 #Subheader {
-	background-color: rgba(7, 19, 35, 1);
+	background-color: rgb(3, 45, 107);
 }
 .header-classic #Action_bar, .header-plain #Action_bar, .header-stack #Action_bar {
 	background-color: #2C2C2C;
@@ -386,7 +386,7 @@ a.mfn-link-6:before {
 	background: #ffba00;
 }
 #Subheader .title {
-	color: #ffba00;
+	color: white;
 }
 #Subheader ul.breadcrumbs li, #Subheader ul.breadcrumbs li a {
 	color: rgba(255, 186, 0, 0.6);
