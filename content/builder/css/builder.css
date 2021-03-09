@@ -195,7 +195,7 @@ body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_li
 /* Links color */
 
 a {
-	color: #ffba00;
+	color: #f55e0c;
 }
 a:hover {
 	color: #dba617;
@@ -266,7 +266,7 @@ a.button, a.tp-button {
 /* .button_theme */
 
 a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[type="reset"], input[type="button"] {
-	background-color: #f55e0c;
+	background-color: #032D6B;
 	color: #fff;
 }
 .button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme, .button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {
@@ -525,19 +525,19 @@ a.content_link, a:hover.content_link {
 	color: #ffba00;
 }
 a.content_link:before {
-	border-bottom-color: #ffba00;
+	border-bottom-color: #f55e0c;
 }
 a.content_link:after {
-	border-color: #ffba00;
+	border-color: #f55e0c;
 }
 
 /* Get in touch & Infobox */
 
 .get_in_touch, .infobox {
-	background-color: #ffba00;
+	background-color: #f55e0c;
 }
 .column_map .google-map-contact-wrapper .get_in_touch:after {
-	border-top-color: #ffba00;
+	border-top-color: #f55e0c;
 }
 
 /* Timeline & Post timeline */
